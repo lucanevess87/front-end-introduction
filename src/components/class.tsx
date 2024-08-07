@@ -272,7 +272,7 @@ export function Class() {
             </div>
           </div>
         </section>
-        <section id="front-end-architecture" className="py-12 md:py-24 bg-background">
+        {/* <section id="front-end-architecture" className="py-12 md:py-24 bg-background">
           <div className="container px-4 md:px-6">
             <div className="mx-auto max-w-3xl space-y-6">
               <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl">Arquitetura Front-End</h2>
@@ -339,7 +339,7 @@ export function Class() {
               </div>
             </div>
           </div>
-        </section>
+        </section> */}
       </main>
     </div>
   )
